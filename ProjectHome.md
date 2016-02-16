@@ -1,0 +1,1 @@
+Java Open Source Shop is a project that use many open source java frameworks and components.
